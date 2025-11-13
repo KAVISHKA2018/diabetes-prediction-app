@@ -67,7 +67,8 @@ The model was trained using a Random Forest classifier with 100 trees. The datas
 
 ## Deployment
 
-The app can be deployed on Streamlit Cloud by connecting to this GitHub repository.
+- The app can be deployed on Streamlit Cloud by connecting to this GitHub repository.
+- Link - https://diabetes-prediction-app-maduwanthajadk.streamlit.app/
 
 ---
 
