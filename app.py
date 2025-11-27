@@ -637,7 +637,7 @@ elif page == "Model Prediction":
 
     st.info("""
     Enter your medical data below to predict diabetes risk. The model uses a trained 
-    Support Vector Machine (SVM) classifier to provide predictions based on 8 key health metrics.
+    Random Forest Classifier to provide predictions based on 8 key health metrics.
     """)
 
     # Input Form
